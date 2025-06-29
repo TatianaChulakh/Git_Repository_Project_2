@@ -1,4 +1,4 @@
-# Gitis is a project to demo different git command
+# Git is a project to demo different git command
 
 * git clone
 * git checkout
