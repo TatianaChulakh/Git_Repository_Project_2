@@ -1,12 +1,13 @@
 # Gitis is a project to demo different git command
 
-git clone
-git checkout
-git status
-git diff
-git branch
-git push
-git add
-git commit -m
-giit remote -v
-git pull 
+*git clone
+*git checkout
+*git branch 
+*git pull
+*git status
+*git diff
+*git add
+*git commit -m
+*git push
+*giit remote -v
+ 
